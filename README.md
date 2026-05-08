@@ -149,29 +149,19 @@ More importantly, it taught me how businesses actually use analytics to make ope
 ---
 
 # 📂 Project Workflow
-
+```bash
 Raw Data
-
    ↓
-
 Data Cleaning
-   
    ↓
-
 Data Modeling
-   
    ↓ 
-
 DAX Calculations
-   
    ↓
-
 Dashboard Development
-   
    ↓
-
 Business Insights & Reporting
-
+```
 
 # 📷 Dashboard Preview
 
