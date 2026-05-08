@@ -152,15 +152,21 @@ More importantly, it taught me how businesses actually use analytics to make ope
 
 Raw Data
    ↓
+
 Data Cleaning
    ↓
+
 Data Modeling
    ↓
+
 DAX Calculations
    ↓
+
 Dashboard Development
    ↓
+
 Business Insights & Reporting
+
 
 # 📷 Dashboard Preview
 
